@@ -1,4 +1,13 @@
-EEPROMdebug
-===========
+2EPROM
+======
+## Replacement EEPROM Arduino Library. ##
 
-Replacement EEPROM Arduino Library with dump to stream capability. Also set function similar to memset, but for EEPROM.
+#### Reimplements EEEPROM and adds: ####
+  * dump (to stream)
+  * set function similar to memset, but for EEPROM
+
+#### TODO ####
+  * Implement additional read/write functions for expanded datatype support.
+
+#### References ####
+http://tushev.org/articles/electronics/47-modified-eeprom-library-for-arduino
