@@ -12,6 +12,4 @@ Creates an instance called EEPROM for plug and play replacement of EEPROM librar
 
 #### TODO ####
   * Implement additional read/write functions for expanded datatype support.
-
-#### References ####
-http://tushev.org/articles/electronics/47-modified-eeprom-library-for-arduino
+like: http://tushev.org/articles/electronics/47-modified-eeprom-library-for-arduino
