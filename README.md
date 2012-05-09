@@ -1,8 +1,8 @@
-2EPROM
+E2PROM
 ======
 ## Replacement EEPROM Arduino Library. ##
 
-#### Reimplements EEEPROM and adds: ####
+#### Reimplements EEPROM and adds: ####
   * dump (to stream)
   * set function similar to memset, but for EEPROM
 
