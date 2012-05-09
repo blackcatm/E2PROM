@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For Ultrasound
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+EEPROM	KEYWORD1
+E2PROM	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+read	KEYWORD2
+write	KEYWORD2
+set	KEYWORD2
+print	KEYWORD2
+setLineEnding	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+
